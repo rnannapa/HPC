@@ -1,0 +1,8 @@
+Number of procs: 1
+Vector size: 134217728
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):     0.002
+Gups:  0.061955

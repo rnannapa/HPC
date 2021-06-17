@@ -1,0 +1,18 @@
+N:10
+Time taken: 0.000047 seconds
+GFLOPS = 0.042553
+N:40
+Time taken: 0.000062 seconds
+GFLOPS = 2.064516
+N:160
+Time taken: 0.000482 seconds
+GFLOPS = 16.995851
+N:640
+Time taken: 0.015397 seconds
+GFLOPS = 34.051309
+N:2560
+Time taken: 0.893703 seconds
+GFLOPS = 37.545395
+N:10240
+Time taken: 57.943529 seconds
+GFLOPS = 37.061665

@@ -1,0 +1,672 @@
+Optimization Level:-O0 N:3 M:12
+Update time (secs):     0.000
+Gups:  0.120420
+Update time (secs):     0.000
+Gups:  0.123006
+Update time (secs):     0.000
+Gups:  0.121556
+Update time (secs):     0.000
+Gups:  0.110838
+Update time (secs):     0.000
+Gups:  0.123006
+Update time (secs):     0.000
+Gups:  0.120420
+Update time (secs):     0.000
+Gups:  0.121556
+Update time (secs):     0.000
+Gups:  0.122713
+Update time (secs):     0.000
+Gups:  0.121556
+Update time (secs):     0.000
+Gups:  0.121843
+Optimization Level:-O1 N:3 M:12
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.422456
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.436776
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.409045
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.409045
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.425947
+Optimization Level:-O2 N:3 M:12
+Update time (secs):     0.000
+Gups:  0.422456
+Update time (secs):     0.000
+Gups:  0.436776
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.456103
+Update time (secs):     0.000
+Gups:  0.456103
+Update time (secs):     0.000
+Gups:  0.425947
+Update time (secs):     0.000
+Gups:  0.422456
+Update time (secs):     0.000
+Gups:  0.456103
+Update time (secs):     0.000
+Gups:  0.440509
+Optimization Level:-O3 N:3 M:12
+Update time (secs):     0.000
+Gups:  0.436776
+Update time (secs):     0.000
+Gups:  0.422456
+Update time (secs):     0.000
+Gups:  0.409045
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.409045
+Update time (secs):     0.000
+Gups:  0.422456
+Update time (secs):     0.000
+Gups:  0.436776
+Update time (secs):     0.000
+Gups:  0.440509
+Update time (secs):     0.000
+Gups:  0.456103
+Update time (secs):     0.000
+Gups:  0.436776
+Optimization Level:-O0 N:7 M:28
+Update time (secs):     0.000
+Gups:  0.119899
+Update time (secs):     0.000
+Gups:  0.119068
+Update time (secs):     0.000
+Gups:  0.119542
+Update time (secs):     0.000
+Gups:  0.119542
+Update time (secs):     0.000
+Gups:  0.119899
+Update time (secs):     0.000
+Gups:  0.120019
+Update time (secs):     0.000
+Gups:  0.119899
+Update time (secs):     0.000
+Gups:  0.120500
+Update time (secs):     0.000
+Gups:  0.118951
+Update time (secs):     0.000
+Gups:  0.120019
+Optimization Level:-O1 N:7 M:28
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.503176
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.494893
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.511741
+Optimization Level:-O2 N:7 M:28
+Update time (secs):     0.000
+Gups:  0.503176
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.520602
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.503176
+Update time (secs):     0.000
+Gups:  0.513928
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.520602
+Update time (secs):     0.000
+Gups:  0.522866
+Update time (secs):     0.000
+Gups:  0.520602
+Optimization Level:-O3 N:7 M:28
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.469762
+Update time (secs):     0.000
+Gups:  0.513928
+Update time (secs):     0.000
+Gups:  0.513928
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.469762
+Update time (secs):     0.000
+Gups:  0.513928
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.511741
+Update time (secs):     0.000
+Gups:  0.511741
+Optimization Level:-O0 N:10 M:40
+Update time (secs):     0.000
+Gups:  0.117349
+Update time (secs):     0.000
+Gups:  0.117029
+Update time (secs):     0.000
+Gups:  0.119057
+Update time (secs):     0.000
+Gups:  0.118727
+Update time (secs):     0.000
+Gups:  0.114456
+Update time (secs):     0.000
+Gups:  0.118400
+Update time (secs):     0.000
+Gups:  0.119388
+Update time (secs):     0.000
+Gups:  0.117349
+Update time (secs):     0.000
+Gups:  0.115379
+Update time (secs):     0.000
+Gups:  0.099191
+Optimization Level:-O1 N:10 M:40
+Update time (secs):     0.000
+Gups:  0.460586
+Update time (secs):     0.000
+Gups:  0.525378
+Update time (secs):     0.000
+Gups:  0.525378
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.517466
+Update time (secs):     0.000
+Gups:  0.525378
+Update time (secs):     0.000
+Gups:  0.519029
+Update time (secs):     0.000
+Gups:  0.525378
+Update time (secs):     0.000
+Gups:  0.525378
+Update time (secs):     0.000
+Gups:  0.475897
+Optimization Level:-O2 N:10 M:40
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.533536
+Update time (secs):     0.000
+Gups:  0.538554
+Update time (secs):     0.000
+Gups:  0.493674
+Update time (secs):     0.000
+Gups:  0.523776
+Update time (secs):     0.000
+Gups:  0.523776
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.538554
+Update time (secs):     0.000
+Gups:  0.531884
+Optimization Level:-O3 N:10 M:40
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.505290
+Update time (secs):     0.000
+Gups:  0.531884
+Update time (secs):     0.000
+Gups:  0.533536
+Update time (secs):     0.000
+Gups:  0.531884
+Optimization Level:-O0 N:14 M:56
+Update time (secs):     0.001
+Gups:  0.113774
+Update time (secs):     0.001
+Gups:  0.113345
+Update time (secs):     0.001
+Gups:  0.113345
+Update time (secs):     0.001
+Gups:  0.112866
+Update time (secs):     0.001
+Gups:  0.112655
+Update time (secs):     0.001
+Gups:  0.112234
+Update time (secs):     0.001
+Gups:  0.113990
+Update time (secs):     0.001
+Gups:  0.107183
+Update time (secs):     0.001
+Gups:  0.112444
+Update time (secs):     0.001
+Gups:  0.112234
+Optimization Level:-O1 N:14 M:56
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.444581
+Optimization Level:-O2 N:14 M:56
+Update time (secs):     0.000
+Gups:  0.431036
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.451254
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.437306
+Update time (secs):     0.000
+Gups:  0.434933
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.452102
+Update time (secs):     0.000
+Gups:  0.451254
+Optimization Level:-O3 N:14 M:56
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.427968
+Update time (secs):     0.000
+Gups:  0.431036
+Update time (secs):     0.000
+Gups:  0.444581
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.447892
+Update time (secs):     0.000
+Gups:  0.451254
+Update time (secs):     0.000
+Gups:  0.447892
+Optimization Level:-O0 N:17 M:68
+Update time (secs):     0.001
+Gups:  0.097255
+Update time (secs):     0.001
+Gups:  0.095631
+Update time (secs):     0.001
+Gups:  0.095381
+Update time (secs):     0.001
+Gups:  0.097385
+Update time (secs):     0.001
+Gups:  0.096293
+Update time (secs):     0.001
+Gups:  0.096325
+Update time (secs):     0.001
+Gups:  0.096708
+Update time (secs):     0.001
+Gups:  0.097385
+Update time (secs):     0.001
+Gups:  0.096452
+Update time (secs):     0.001
+Gups:  0.094978
+Optimization Level:-O1 N:17 M:68
+Update time (secs):     0.000
+Gups:  0.333019
+Update time (secs):     0.000
+Gups:  0.334929
+Update time (secs):     0.000
+Gups:  0.334545
+Update time (secs):     0.000
+Gups:  0.336472
+Update time (secs):     0.000
+Gups:  0.334545
+Update time (secs):     0.000
+Gups:  0.334929
+Update time (secs):     0.000
+Gups:  0.334545
+Update time (secs):     0.000
+Gups:  0.336472
+Update time (secs):     0.000
+Gups:  0.336472
+Update time (secs):     0.000
+Gups:  0.336472
+Optimization Level:-O2 N:17 M:68
+Update time (secs):     0.000
+Gups:  0.338030
+Update time (secs):     0.000
+Gups:  0.334929
+Update time (secs):     0.000
+Gups:  0.334929
+Update time (secs):     0.000
+Gups:  0.331507
+Update time (secs):     0.000
+Gups:  0.334929
+Update time (secs):     0.000
+Gups:  0.312028
+Update time (secs):     0.000
+Gups:  0.336472
+Update time (secs):     0.000
+Gups:  0.313703
+Update time (secs):     0.000
+Gups:  0.334929
+Update time (secs):     0.000
+Gups:  0.323789
+Optimization Level:-O3 N:17 M:68
+Update time (secs):     0.000
+Gups:  0.336472
+Update time (secs):     0.000
+Gups:  0.333399
+Update time (secs):     0.000
+Gups:  0.327052
+Update time (secs):     0.000
+Gups:  0.338030
+Update time (secs):     0.000
+Gups:  0.334545
+Update time (secs):     0.000
+Gups:  0.334545
+Update time (secs):     0.000
+Gups:  0.336085
+Update time (secs):     0.000
+Gups:  0.334929
+Update time (secs):     0.000
+Gups:  0.310700
+Update time (secs):     0.000
+Gups:  0.328524
+Optimization Level:-O0 N:20 M:80
+Update time (secs):     0.001
+Gups:  0.090707
+Update time (secs):     0.001
+Gups:  0.091748
+Update time (secs):     0.001
+Gups:  0.092365
+Update time (secs):     0.001
+Gups:  0.089829
+Update time (secs):     0.001
+Gups:  0.092689
+Update time (secs):     0.001
+Gups:  0.073137
+Update time (secs):     0.001
+Gups:  0.087608
+Update time (secs):     0.001
+Gups:  0.091724
+Update time (secs):     0.001
+Gups:  0.092889
+Update time (secs):     0.001
+Gups:  0.092241
+Optimization Level:-O1 N:20 M:80
+Update time (secs):     0.000
+Gups:  0.266768
+Update time (secs):     0.000
+Gups:  0.280717
+Update time (secs):     0.000
+Gups:  0.256034
+Update time (secs):     0.000
+Gups:  0.282331
+Update time (secs):     0.000
+Gups:  0.282564
+Update time (secs):     0.000
+Gups:  0.269488
+Update time (secs):     0.000
+Gups:  0.284435
+Update time (secs):     0.000
+Gups:  0.280488
+Update time (secs):     0.000
+Gups:  0.265942
+Update time (secs):     0.000
+Gups:  0.285380
+Optimization Level:-O2 N:20 M:80
+Update time (secs):     0.000
+Gups:  0.284435
+Update time (secs):     0.000
+Gups:  0.285380
+Update time (secs):     0.000
+Gups:  0.273130
+Update time (secs):     0.000
+Gups:  0.276648
+Update time (secs):     0.000
+Gups:  0.264306
+Update time (secs):     0.000
+Gups:  0.282331
+Update time (secs):     0.000
+Gups:  0.278668
+Update time (secs):     0.000
+Gups:  0.282564
+Update time (secs):     0.000
+Gups:  0.286331
+Update time (secs):     0.000
+Gups:  0.283496
+Optimization Level:-O3 N:20 M:80
+Update time (secs):     0.000
+Gups:  0.281407
+Update time (secs):     0.000
+Gups:  0.284435
+Update time (secs):     0.000
+Gups:  0.282564
+Update time (secs):     0.000
+Gups:  0.284435
+Update time (secs):     0.000
+Gups:  0.282331
+Update time (secs):     0.000
+Gups:  0.285380
+Update time (secs):     0.000
+Gups:  0.285617
+Update time (secs):     0.000
+Gups:  0.287529
+Update time (secs):     0.000
+Gups:  0.279575
+Update time (secs):     0.000
+Gups:  0.284435
+Optimization Level:-O0 N:24 M:96
+Update time (secs):     0.002
+Gups:  0.040686
+Update time (secs):     0.002
+Gups:  0.040739
+Update time (secs):     0.002
+Gups:  0.040289
+Update time (secs):     0.003
+Gups:  0.036479
+Update time (secs):     0.002
+Gups:  0.040840
+Update time (secs):     0.002
+Gups:  0.040554
+Update time (secs):     0.002
+Gups:  0.040759
+Update time (secs):     0.002
+Gups:  0.040739
+Update time (secs):     0.002
+Gups:  0.040622
+Update time (secs):     0.002
+Gups:  0.040775
+Optimization Level:-O1 N:24 M:96
+Update time (secs):     0.001
+Gups:  0.094807
+Update time (secs):     0.001
+Gups:  0.094895
+Update time (secs):     0.001
+Gups:  0.094982
+Update time (secs):     0.001
+Gups:  0.094895
+Update time (secs):     0.001
+Gups:  0.095267
+Update time (secs):     0.001
+Gups:  0.094807
+Update time (secs):     0.001
+Gups:  0.095267
+Update time (secs):     0.001
+Gups:  0.095157
+Update time (secs):     0.001
+Gups:  0.095157
+Update time (secs):     0.001
+Gups:  0.095157
+Optimization Level:-O2 N:24 M:96
+Update time (secs):     0.001
+Gups:  0.094352
+Update time (secs):     0.001
+Gups:  0.094352
+Update time (secs):     0.001
+Gups:  0.094982
+Update time (secs):     0.001
+Gups:  0.095070
+Update time (secs):     0.001
+Gups:  0.095070
+Update time (secs):     0.001
+Gups:  0.095355
+Update time (secs):     0.001
+Gups:  0.094982
+Update time (secs):     0.001
+Gups:  0.094352
+Update time (secs):     0.001
+Gups:  0.095333
+Update time (secs):     0.001
+Gups:  0.094895
+Optimization Level:-O3 N:24 M:96
+Update time (secs):     0.001
+Gups:  0.094982
+Update time (secs):     0.001
+Gups:  0.070469
+Update time (secs):     0.001
+Gups:  0.105912
+Update time (secs):     0.001
+Gups:  0.095444
+Update time (secs):     0.001
+Gups:  0.094720
+Update time (secs):     0.001
+Gups:  0.095267
+Update time (secs):     0.001
+Gups:  0.094807
+Update time (secs):     0.001
+Gups:  0.095333
+Update time (secs):     0.001
+Gups:  0.095532
+Update time (secs):     0.001
+Gups:  0.095355
+Optimization Level:-O0 N:27 M:108
+Update time (secs):     0.003
+Gups:  0.036036
+Update time (secs):     0.003
+Gups:  0.035836
+Update time (secs):     0.003
+Gups:  0.035989
+Update time (secs):     0.003
+Gups:  0.035919
+Update time (secs):     0.003
+Gups:  0.035849
+Update time (secs):     0.003
+Gups:  0.035905
+Update time (secs):     0.003
+Gups:  0.036022
+Update time (secs):     0.003
+Gups:  0.036070
+Update time (secs):     0.003
+Gups:  0.035989
+Update time (secs):     0.003
+Gups:  0.035930
+Optimization Level:-O1 N:27 M:108
+Update time (secs):     0.002
+Gups:  0.073291
+Update time (secs):     0.002
+Gups:  0.073198
+Update time (secs):     0.002
+Gups:  0.073337
+Update time (secs):     0.002
+Gups:  0.073581
+Update time (secs):     0.002
+Gups:  0.073279
+Update time (secs):     0.002
+Gups:  0.073337
+Update time (secs):     0.002
+Gups:  0.073233
+Update time (secs):     0.002
+Gups:  0.073488
+Update time (secs):     0.002
+Gups:  0.073628
+Update time (secs):     0.002
+Gups:  0.073488
+Optimization Level:-O2 N:27 M:108
+Update time (secs):     0.002
+Gups:  0.073233
+Update time (secs):     0.002
+Gups:  0.073383
+Update time (secs):     0.002
+Gups:  0.073430
+Update time (secs):     0.002
+Gups:  0.073535
+Update time (secs):     0.001
+Gups:  0.073780
+Update time (secs):     0.002
+Gups:  0.073488
+Update time (secs):     0.002
+Gups:  0.073048
+Update time (secs):     0.002
+Gups:  0.073383
+Update time (secs):     0.002
+Gups:  0.073535
+Update time (secs):     0.002
+Gups:  0.073337
+Optimization Level:-O3 N:27 M:108
+Update time (secs):     0.002
+Gups:  0.073383
+Update time (secs):     0.002
+Gups:  0.073430
+Update time (secs):     0.002
+Gups:  0.073476
+Update time (secs):     0.002
+Gups:  0.073488
+Update time (secs):     0.002
+Gups:  0.073337
+Update time (secs):     0.002
+Gups:  0.073291
+Update time (secs):     0.002
+Gups:  0.073094
+Update time (secs):     0.002
+Gups:  0.073233
+Update time (secs):     0.002
+Gups:  0.073244
+Update time (secs):     0.002
+Gups:  0.061955
