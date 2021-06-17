@@ -1,0 +1,18 @@
+JACOBI using OpenACC
+
+A batch file is included which runs the code for given array size.
+User have to give the flags for which code to run
+
+if using P100
+pgcc -acc -fast -ta=tesla:cc60 -Minfo=accel jacobi.c -o jacobi.out -DSIZE=$j -DMAXITER=1000
+
+if using k80
+pgcc -acc -fast -ta=tesla:cc35 jacobi.c -o jacobi.out -DSIZE=$j -DMAXITER=1000
+
+check the gpu target using pgaccelinfo
+
+
+########
+
+Comments for modification of the code are provides in the .c file.
+

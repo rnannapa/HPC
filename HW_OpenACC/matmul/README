@@ -1,0 +1,28 @@
+Matrix multiplication using OpenACC
+
+A batch file is included which runs the code for given matrix size.
+
+User have to give the flags for which code to run
+
+if using k80
+pgcc -acc -fast -ta=tesla:cc35 matrixMul.c -o matrixMul.out -DSIZE=$j -DCASEnoK
+
+if using p100
+pgcc -acc -fast -ta=tesla:cc60 -Minfo=accel matrixMul.c -o matrixMul.out -DSIZE=$j -DCASEK
+
+check the gpu target using pgaccelinfo
+
+The flags are:
+CASE0
+This is the original code provided, this doesnot have any OpenACC directives
+
+CASEK
+This is parallelization using OpenACC kernel directives
+
+CASEnoK
+This is parallelization by the user
+
+########
+
+Comments for modification of the code are provides in the .c file.
+

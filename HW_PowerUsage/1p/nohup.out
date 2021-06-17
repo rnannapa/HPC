@@ -1,0 +1,4 @@
+Size:5000
+icc -mkl -I/opt/packages/papi/5.4.3/include/ -O0 mklMul_PAPI.c -L/opt/packages/papi/5.4.3/lib/ -lpapi -o mklMul_PAPI.out -DL3A -D mdim=5000 -D ndim=5000 -D kdim=5000
+gcc -I/opt/packages/papi/5.4.3/include/ -O0 matmul_PAPI.c -L/opt/packages/papi/5.4.3/lib/ -lpapi -o matmul_PAPI.out -DL3A -D N=5000
+rm -f mklMul_PAPI.out matmul_PAPI.out mklMul_Power.out matmul_Power.out

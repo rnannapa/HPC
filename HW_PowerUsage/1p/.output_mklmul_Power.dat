@@ -1,0 +1,65 @@
+
+ This example computes real matrix C=alpha*A*B+beta*C using 
+ Intel(R) MKL function dgemm, where A, B, and  C are matrices and 
+ alpha and beta are double precision scalars
+
+ Initializing data for matrix multiplication C=A*B for matrix 
+ A(1000x1000) and matrix B(1000x1000)
+
+ Allocating memory for matrices aligned on 64-byte boundary for better 
+ performance 
+
+ Intializing matrix data 
+
+
+ Computations completed.
+
+ Top left corner of matrix A: 
+           1           2           3           4           5           6
+        1001        1002        1003        1004        1005        1006
+        2001        2002        2003        2004        2005        2006
+        3001        3002        3003        3004        3005        3006
+        4001        4002        4003        4004        4005        4006
+        5001        5002        5003        5004        5005        5006
+
+ Top left corner of matrix B: 
+          -1          -2          -3          -4          -5          -6
+       -1001       -1002       -1003       -1004       -1005       -1006
+       -2001       -2002       -2003       -2004       -2005       -2006
+       -3001       -3002       -3003       -3004       -3005       -3006
+       -4001       -4002       -4003       -4004       -4005       -4006
+       -5001       -5002       -5003       -5004       -5005       -5006
+
+ Top left corner of matrix C: 
+ -3.3333E+11 -3.3333E+11 -3.3333E+11 -3.3334E+11 -3.3334E+11 -3.3334E+11
+ -8.3283E+11 -8.3284E+11 -8.3284E+11 -8.3284E+11 -8.3284E+11 -8.3284E+11
+ -1.3323E+12 -1.3323E+12 -1.3323E+12 -1.3323E+12 -1.3323E+12 -1.3323E+12
+ -1.8318E+12 -1.8318E+12 -1.8318E+12 -1.8318E+12 -1.8319E+12 -1.8319E+12
+ -2.3313E+12 -2.3313E+12 -2.3313E+12 -2.3314E+12 -2.3314E+12 -2.3314E+12
+ -2.8308E+12 -2.8308E+12 -2.8308E+12 -2.8309E+12 -2.8309E+12 -2.8309E+12
+
+ Deallocating memory 
+
+ Example completed. 
+
+
+RAPL read -- use -s for sysfs, -p for perf_event, -m for msr
+
+Found Haswell-EP Processor type
+	0 (0), 1 (0), 2 (0), 3 (0), 4 (0), 5 (0), 6 (0), 7 (1)
+	8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (0), 15 (0)
+	16 (0), 17 (0), 18 (0), 19 (0), 20 (0), 21 (1), 22 (1), 23 (1)
+	24 (1), 25 (1), 26 (1), 27 (1), 
+	Detected 28 cores in 2 packages
+
+
+Trying sysfs powercap interface to gather results
+
+Executing
+	Package 0
+		package-1	: 2.104609J
+		dram	: 0.576351J
+	Package 1
+		package-0	: 5.642746J
+		dram	: 0.660179J
+

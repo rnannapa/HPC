@@ -1,0 +1,5 @@
+PAPI_START
+L3 Load Misses = 7170
+L3 Total Cache Misses = 18661
+Time: 3136875
+PAPI_FINISH

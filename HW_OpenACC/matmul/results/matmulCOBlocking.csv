@@ -1,0 +1,10 @@
+SIZE,2048,4096,8192
+Time,0.601601,1.163514,6.112714
+Power,47487.58,84994.17,119787.75
+Host_to_Device(us),11.90,5.64,2.56
+Device_to_Host(us),3.52,1.67,0.76
+main_86_gpu,84.59,92.70,96.68
+main_86_gpu,,,
+flop_count_dp,1.7180e+10,1.3744e+11,1.0995e+12
+dram_read_transactions,235150213,6566376917,7.9135e+10
+dram_write_transactions,1109631,4251022,16835296

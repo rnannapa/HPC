@@ -1,0 +1,51 @@
+
+ This example computes real matrix C=alpha*A*B+beta*C using 
+ Intel(R) MKL function dgemm, where A, B, and  C are matrices and 
+ alpha and beta are double precision scalars
+
+ Initializing data for matrix multiplication C=A*B for matrix 
+ A(1000x1000) and matrix B(1000x1000)
+
+ Allocating memory for matrices aligned on 64-byte boundary for better 
+ performance 
+
+ Intializing matrix data 
+
+ Computing matrix product using Intel(R) MKL dgemm function via CBLAS interface 
+
+PAPI_START
+L3 Load Misses = 109559
+L3 Total Cache Misses = 142365
+Time: 60449
+PAPI_FINISH
+
+ Computations completed.
+
+ Top left corner of matrix A: 
+           1           2           3           4           5           6
+        1001        1002        1003        1004        1005        1006
+        2001        2002        2003        2004        2005        2006
+        3001        3002        3003        3004        3005        3006
+        4001        4002        4003        4004        4005        4006
+        5001        5002        5003        5004        5005        5006
+
+ Top left corner of matrix B: 
+          -1          -2          -3          -4          -5          -6
+       -1001       -1002       -1003       -1004       -1005       -1006
+       -2001       -2002       -2003       -2004       -2005       -2006
+       -3001       -3002       -3003       -3004       -3005       -3006
+       -4001       -4002       -4003       -4004       -4005       -4006
+       -5001       -5002       -5003       -5004       -5005       -5006
+
+ Top left corner of matrix C: 
+ -3.3333E+11 -3.3333E+11 -3.3333E+11 -3.3334E+11 -3.3334E+11 -3.3334E+11
+ -8.3283E+11 -8.3284E+11 -8.3284E+11 -8.3284E+11 -8.3284E+11 -8.3284E+11
+ -1.3323E+12 -1.3323E+12 -1.3323E+12 -1.3323E+12 -1.3323E+12 -1.3323E+12
+ -1.8318E+12 -1.8318E+12 -1.8318E+12 -1.8318E+12 -1.8319E+12 -1.8319E+12
+ -2.3313E+12 -2.3313E+12 -2.3313E+12 -2.3314E+12 -2.3314E+12 -2.3314E+12
+ -2.8308E+12 -2.8308E+12 -2.8308E+12 -2.8309E+12 -2.8309E+12 -2.8309E+12
+
+ Deallocating memory 
+
+ Example completed. 
+
